@@ -1,0 +1,23 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "trabajo",
+  "author": "sergio alcala",
+  "license": "MIT",
+  "devDependencies": {
+    "connect-history-api-fallback": "*",
+    "gulp": "*",
+    "gulp-connect": "*",
+    "gulp-if": "*",
+    "gulp-inject": "*",
+    "gulp-jshint": "*",
+    "gulp-minify-css": "*",
+    "gulp-stylus": "*",
+    "gulp-uglify": "*",
+    "gulp-useref": "*",
+    "gulp-watch": "*",
+    "jshint-stylish": "*",
+    "nib": "*",
+    "wiredep": "*"
+  }
+}

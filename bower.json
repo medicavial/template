@@ -1,0 +1,15 @@
+{
+  "name": "dashboard-app",
+  "version": "0.0.1",
+  "authors": [
+    "Sergio Alcala <checo_2k2@hotmail.com>"
+  ],
+  "description": "librerias necesarias para la app",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "*",
+    "angular-messages": "*",
+    "animate.css": "*",
+    "material-design-lite": "*"
+  }
+}
